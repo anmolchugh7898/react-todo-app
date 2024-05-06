@@ -47,7 +47,7 @@ Your tasks are precious, and we ensure they're never lost. With local storage in
 2. **Go to the project directory**
 
 ```bash
-  cd word-counter
+  cd react-todo-app
 ```
 
 3. **Install dependencies**
